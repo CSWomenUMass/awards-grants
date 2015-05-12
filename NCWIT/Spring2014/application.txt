@@ -1,0 +1,53 @@
+Name of Requesting Organization/Student Group:
+Computer Science Women’s Group
+
+Email of Student Organization (a permanent contact email for the organization itself):
+women@cs.umass.edu
+
+Name of Student Leader:
+Tiffany Liu, Catherine Feldman, Cibele Freire, Cara Magliozzi, Niharika Venkatathri
+
+Email of Student Leader:
+tliu@cs.umass.edu, annecatherin@umass.edu, cibelemf@cs.umass.edu, cmaglioz@umass.edu, nvenkata@umass.edu
+
+Name of University or College:
+University of Massachusetts Amherst
+
+Name of Advisor or Department Head (person writing the letter of support):
+Prof. Yanlei Diao
+
+Email of Advisor or Department Head (person writing the letter of support):
+yanlei@cs.umass.edu 
+
+Description of Student Organization (the mission of your organization):
+The Computer Science Women’s Group exists to foster a strong community of women computer scientists at UMass Amherst. Our goal is to encourage an atmosphere where women can discuss academic, professional, and social issues. The group has monthly lunches to promote a social climate and events to support professional growth and self-development by inviting speakers from academia and industry. The chairs of the group solicit sponsors to fund events, and also serve as a contact for outreach activities and networking resources for students.
+
+The URL of your web site (if one exists):
+http://cs.umass.edu/~women
+
+The number of members in your organization:
+Approximately 200 students (undergraduate majors and minors and graduate)
+
+The size of your department:
+Approximately 950 students (undergraduate majors and minors and graduate)
+
+TIP: It is often helpful to be specific about the components of your event, such as benefits and
+assessment. For example, while every project is different, try to avoid vague assessment plans such as simply writing, "We will give surveys at the end of the semester."
+
+Describe your activity and how the $1,000 grant will be used. Please include specific information on how the funds will be utilized (e.g., our group will spend $xxx on food and $xxx on transportation for high school students to attend)
+We will organize an event called “Women in Tech Fest” in the Five College area, which includes students from Amherst College, Hampshire College, Mount Holyoke College, Smith College, and UMass Amherst. The event will last for two days and will consist of workshops and projects. The first day we plan to have workshops led by graduate students to introduce the participants to some areas of Computer Science. We will then describe the projects that the groups will be involved in. On the second day, the groups will continue to work on the projects and then finish with a presentation of their work.  We will have graduate students serve as mentors or judges during the competition. The funding will be used to cover the cost of advertising, food, and prizes. We expect that $225 will go towards printing posters and flyers to put up on all five of the campuses, $175 will go towards prizes for the first, second, and third place teams, and $600 will go towards buying breakfast, lunch, dinner, and snacks and drinks for the participants.
+
+How does this activity help to promote or sustain the Women in CS/MIS/IT group at your university?
+The “Women in Tech Fest” will help promote women in technology by integrating women in the Five College Area who are already interested in technology, as undergraduate and graduate students getting a degree in CS, as well as professionals, with the ones who might be interested but are reluctant on going forward because they do not know what their options are career wise and have a difficult time finding other women with similar interests that they can relate to. The event is designed to promote integration and an opportunity to network through the workshops the participants will be able to attend and through working together on the projects. Such an event will bring a sense of community that we believe will also help sustain the women who are trying to establish themselves in the field.
+
+Number of people served:
+The number of participants will be determined via registration. An estimated 80 students will participate in the event, and we expect that around 50% will sign up for getting involved on the projects. There will likely be two rounds of registration: one for individuals followed by one for teams. We will hold the event on a weekend to ensure students’ availability, thus maximizing attendance.
+
+Has this event been held before and if so, were there any successful outcomes?
+While many events to promote women in Computer Science had been held at UMass Amherst, there has not been a specific event of that size targeting undergraduate women.
+
+How will participants benefit?
+Besides the technical knowledge about the area and the opportunity to collaborate with other women in projects, this event will bring together women with similar interests and get them to know each other and share their experiences. This event has the potential to be a tremendous learning experience for participants and they will have the opportunity to network with women in Computer Science throughout the region. For some, it may be the first time they have worked on a project, on a team, or with other women when it comes to programming. In addition, we expect that this event will lead to a more frequent interaction amongst the women in the area, building a connection that is going to last even after the event is over. 
+
+How will this initiative be assessed or measured to determine success?
+We plan on giving out pre-event and post-event surveys to participants in order to determine how much they learn from the workshops and how the workshops help them achieve their career preparation goals.  In the surveys, students will be asked to rate their confidence in tasks such as interviewing and job searching, as well as rate how much they know about different options in Computer Science careers (industry, academia, etc.).  We will ask students to complete the pre-event survey as part of their registration and sign off after attending the event with a post-event survey. The pre-event survey will help us estimate the skill and knowledge level of the participants so that we can provide resources accordingly. The post-event survey is meant to help us better understand what aspects of the event need improvement and what parts were the most successful/effective, which can be used for planning future events. 

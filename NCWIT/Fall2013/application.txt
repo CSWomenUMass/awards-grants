@@ -1,0 +1,58 @@
+Name of Requesting Organization/Student Group:
+Computer Science Women’s Group
+
+Email of Student Organization (a permanent contact email for the organization itself):
+women@cs.umass.edu
+
+Name of Student Leader:
+Ellysha Raelen Recto, Elizabeth Staruk, Tiffany Liu, Catherine Feldman
+
+Email of Student Leader:
+recto@cs.umass.edu, estaruk@student.umass.edu, tliu@cs.umass.edu, annecatherin@umass.edu 
+
+Name of University or College:
+University of Massachusetts Amherst
+
+Name of Advisor or Department Head (person writing the letter of support):
+Prof. Lori Clarke
+
+Email of Advisor or Department Head (person writing the letter of support):
+clarke@cs.umass.edu
+
+Description of Student Organization (the mission of your organization):
+The Computer Science Women’s Group exists to foster a strong community of women computer scientists at UMass.  Our goal is to encourage an atmosphere where women can discuss academic, professional, and social issues.  The group has monthly lunches to promote a social climate and events to support professional growth and self-development by inviting speakers from academia and industry.  The chairs of the group solicit sponsors to fund events, and also serve as a contact for outreach activities and networking resources for students.
+
+The URL of your web site (if one exists):
+cs.umass.edu/~women
+
+The number of members in your organization:
+Approximately 200 students (undergraduate majors and minors and graduate)
+
+The size of your department:
+Approximately 950 students (undergraduate majors and minors and graduate)
+
+TIP: It is often helpful to be specific about the components of your event, such as benefits and
+assessment. For example, while every project is different, try to avoid vague assessment plans such as simply writing, "We will give surveys at the end of the semester."
+
+Describe your activity and how the $1,000 grant will be used. Please include specific information on how the funds will be utilized (e.g., our group will spend $xxx on food and $xxx on transportation for high school students to attend)
+
+Our group plans to hold a career preparation event for female undergraduate and graduate computer science students.  We are opening this event to the entire five college consortium: Smith College, Hampshire College, Amherst College, Mt. Holyoke College, and UMass Amherst.  The event will help prepare female computer science students for a variety of career paths by including information on technical conferences, career fairs, job searches, and interviews.  At this event, we will host several “how-to” workshop stations relevant to careers in both academia and industry.  The workshops will include resume writing, networking, preparing for technical interviews, building an online professional network (e.g. LinkedIn), applying to graduate school, effective research presentations, getting teaching experience, etc.  We will ask industry speakers, experienced students, alums, and faculty to lead these workshop stations.  In particular, we are hoping to have speakers from CAITE lead on opening discussion for the event.
+We plan to spend $380 on food and printing event materials, and to provide two $310 prizes to be raffled: one to an undergraduate student, and one to a graduate student. The raffle will be a contest where students may only get a ticket once they answered questions about the event (in a scavenger hunt format). The prize money will be awarded as a reimbursement for attending the Grace Hopper Celebration, and will cover the entire cost of student registration.
+
+How does this activity help to promote or sustain the Women in CS/MIS/IT group at your university?
+We hope that this activity will help our students’ professional growth in the field of computing.  Our goal is to inform the women in our school and in neighboring colleges of the various opportunities available to them as computer scientists and how to attain them.  Through this event, we aim for the women in our department to not only be more prepared but also more motivated and encouraged to pursue a career in computing.
+We believe that the event’s workstation format will allow students of varying backgrounds to comfortably access the resources that would be most beneficial to them, and that having many smaller, more personal discussions will allow the students to find guidance and mentoring for their individual careers.  This will be a more direct method of supporting and retaining women in computer science than a large, general discussion / talk.
+
+
+Number of people served:
+We are expecting at least 50 students to attend this event.  We also plan to put information and resources from speakers (with permission) on the website after the event.  We will hold the event on a Saturday to ensure students’ availability, thus maximizing attendance.
+
+Has this event been held before and if so, were there any successful outcomes?
+No.
+
+How will participants benefit?
+The participants will become more prepared for job searching and more informed in how to further their careers after college.  Some specific examples include students becoming more prepared for our university’s Science and Technology Fair in the fall semester; they will also be more aware of how to participate in conferences such as the Grace Hopper Celebration.
+
+How will this initiative be assessed or measured to determine success?
+We plan on giving out pre-event, post-event and follow-up surveys to participants in order to determine how much they learn from the workshops and how the workshops help them achieve their career preparation goals.  In the surveys, students will be asked to rate their confidence in tasks such as interviewing and job searching, as well as rate how much they know about different options in computer science careers (industry, academia, etc.)  We will ask students to register for the event in which they complete the pre-event survey, sign off after attending the event in a post-event survey, and later follow-up with a survey to see how they have applied the knowledge they gained at the event.
+
