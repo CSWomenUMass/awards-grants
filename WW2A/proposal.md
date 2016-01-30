@@ -3,6 +3,7 @@
 Birds of a feather flock together. This concept is known as homophily and is true even with the students who have left their home country to pursue their dreams in a foreign land. Homophily can be comforting, especially in the beginning when everything is new. But as all students progress in their academic program, it becomes essential for students to break free of this safety net and collaborate with people outside their culture; this is all the more true when it comes to a demanding graduate program in a competitive field of study like computer science. Trying to build new relationships becomes increasingly difficult as students progress in their program. Consequently, embracing cultural diversity from the start will not only aid students’ success in the program but also enhance their overall experience and morale during their years in graduate school. We propose kickstarting a new peer mentoring program designed to match pairs of incoming graduate students with a current graduate student in STEM at Umass. Named after the knot that combines two distinct pieces of rope, traditionally used for mooring airships, it encapsulates the program we are proposing.
 
 The project will be launched in three phases:
+
 1. Mentor training for current graduate students, recruiter from the participating GSOs.
 2. Initial pilot of the proposed “buddy triangles” with incoming graduate students in the College of Information and Computer Sciences (CICS).
 3. Compilation and dissemination of our preliminary results to other STEM departments.
